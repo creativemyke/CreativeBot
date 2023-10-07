@@ -30,7 +30,7 @@ const messageMapping = {
     fileUrl: null, // No associated file
   },
   'hello': {
-    response: 'Here you go 😎',
+    response: 'hi there 😎',
     fileUrl: 'https://media1.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif',
   },
   'tell me a story': {
